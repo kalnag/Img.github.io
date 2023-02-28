@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My First img</title>
+  </head>
+  <body>
+    <h1>Happy Coding</h1>
+    <p>Hello MOM!</p>
+  </body>
+</html>
