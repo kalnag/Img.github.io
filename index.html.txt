@@ -6,5 +6,11 @@
   <body>
     <h1>Happy Coding</h1>
     <p>Hello MOM!</p>
+    <p>Here are some things  I'm working on:</p>
+    <ul>
+        <li>Happpy coding</li>
+        <li>software product sprint</li>
+        <li>Google Maps</li>
+    </ul>
   </body>
 </html>
