@@ -2,15 +2,18 @@
 <html>
   <head>
     <title>My First img</title>
+    <link rel="stylesheet" type="text/css" href="styles.css"> 
   </head>
   <body>
+   <div class="contest">
     <h1>Happy Coding</h1>
     <p>Hello MOM!</p>
     <p>Here are some things  I'm working on:</p>
     <ul>
-        <li>Happpy coding</li>
+        <li>Happpy</li>
         <li>software product sprint</li>
         <li>Google Maps</li>
     </ul>
+   </div>
   </body>
 </html>
